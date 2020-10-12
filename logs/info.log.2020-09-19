@@ -1,0 +1,422 @@
+2020-09-19 20:53:39,561 - tools.report.log_tool - INFO - ----请求用时: 693.739 秒数
+2020-09-19 20:53:39,565 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-19 20:53:39,565 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:39 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwNTIxODE5NDM0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-19 20:53:41,447 - tools.report.log_tool - INFO - ----请求用时: 804.491 秒数
+2020-09-19 20:53:41,447 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 20:53:41,447 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:40 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:53:48,903 - tools.report.log_tool - INFO - ----请求用时: 346.551 秒数
+2020-09-19 20:53:48,904 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 20:53:48,904 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:47 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:53:51,123 - tools.report.log_tool - INFO - ----请求用时: 153.64 秒数
+2020-09-19 20:53:51,123 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-19 20:53:51,123 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:50 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:53:53,475 - tools.report.log_tool - INFO - ----请求用时: 286.606 秒数
+2020-09-19 20:53:53,475 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 20:53:53,475 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:52 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:53:55,464 - tools.report.log_tool - INFO - ----请求用时: 924.367 秒数
+2020-09-19 20:53:55,464 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 20:53:55,464 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:53:55 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:20,801 - tools.report.log_tool - INFO - ----请求用时: 30.302 秒数
+2020-09-19 20:56:20,801 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-19 20:56:20,801 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:20 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwNTIxOTgwNjgyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-19 20:56:25,572 - tools.report.log_tool - INFO - ----请求用时: 711.488 秒数
+2020-09-19 20:56:25,572 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 20:56:25,572 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:25 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:26,869 - tools.report.log_tool - INFO - ----请求用时: 236.898 秒数
+2020-09-19 20:56:26,870 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 20:56:26,870 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:26 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:31,688 - tools.report.log_tool - INFO - ----请求用时: 833.834 秒数
+2020-09-19 20:56:31,688 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-19 20:56:31,688 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:28 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:37,878 - tools.report.log_tool - INFO - ----请求用时: 126.351 秒数
+2020-09-19 20:56:37,878 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 20:56:37,878 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:37 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:43,676 - tools.report.log_tool - INFO - ----请求用时: 727.794 秒数
+2020-09-19 20:56:43,676 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 20:56:43,676 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:43 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 20:56:46,720 - tools.report.log_tool - INFO - ----请求用时: 962.883 秒数
+2020-09-19 20:56:46,721 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-19 20:56:46,721 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwNTIyMDA0OTc5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-19 20:56:49,641 - tools.report.log_tool - INFO - ----请求用时: 864.409 秒数
+2020-09-19 20:56:49,642 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNjAwNTIyMDA0OTc5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 226
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "220201199709197584", "city": "\\u5409\\u6797\\u5e02", "cstName": "\\u8f95\\u5a75\\u6b22", "email": "GvgNyb@126.com", "province": "\\u5409\\u6797\\u7701", "sex": 1}}'
+2020-09-19 20:56:49,642 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 12:56:49 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-19 21:02:26,239 - tools.report.log_tool - INFO - ----请求用时: 839.668 秒数
+2020-09-19 21:02:26,240 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-19 21:02:26,240 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:26 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwNTIyMzQ2MDg4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-19 21:02:34,447 - tools.report.log_tool - INFO - ----请求用时: 100.224 秒数
+2020-09-19 21:02:34,447 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 21:02:34,447 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:34 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 21:02:37,370 - tools.report.log_tool - INFO - ----请求用时: 859.592 秒数
+2020-09-19 21:02:37,370 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 21:02:37,370 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:36 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 21:02:38,713 - tools.report.log_tool - INFO - ----请求用时: 273.779 秒数
+2020-09-19 21:02:38,713 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-19 21:02:38,713 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:38 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 21:02:40,622 - tools.report.log_tool - INFO - ----请求用时: 851.42 秒数
+2020-09-19 21:02:40,623 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-19 21:02:40,623 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:40 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 21:02:42,950 - tools.report.log_tool - INFO - ----请求用时: 266.176 秒数
+2020-09-19 21:02:42,950 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-19 21:02:42,950 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:42 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-19 21:02:46,449 - tools.report.log_tool - INFO - ----请求用时: 443.25 秒数
+2020-09-19 21:02:46,450 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-19 21:02:46,450 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:46 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwNTIyMzY2Mjg1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-19 21:02:47,742 - tools.report.log_tool - INFO - ----请求用时: 245.466 秒数
+2020-09-19 21:02:47,742 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNjAwNTIyMzY2Mjg1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 239
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "320305199309194338", "city": "\\u5f90\\u5dde\\u5e02", "cstName": "\\u989c\\u7fd4\\u5947", "email": "jfE83hgYqlkB7cjdb9@3721.net", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}}'
+2020-09-19 21:02:47,742 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 19 Sep 2020 13:02:47 GMT
+
+{"code":2000,"message":"认证成功","data":""}

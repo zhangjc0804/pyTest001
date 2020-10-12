@@ -1,0 +1,2999 @@
+2020-09-12 02:09:30,785 - tools.report.log_tool - INFO - ----请求用时: 190.795 秒数
+2020-09-12 02:09:30,786 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:09:30,786 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:09:30 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:09:41,334 - tools.report.log_tool - INFO - ----请求用时: 139.433 秒数
+2020-09-12 02:09:41,334 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:09:41,335 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:09:41 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:10:14,884 - tools.report.log_tool - INFO - ----请求用时: 148.856 秒数
+2020-09-12 02:10:14,884 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:10:14,884 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:10:14 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:13:46,342 - tools.report.log_tool - INFO - ----请求用时: 159.5 秒数
+2020-09-12 02:13:46,342 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:13:46,342 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:13:46 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:15:32,180 - tools.report.log_tool - INFO - ----请求用时: 327.215 秒数
+2020-09-12 02:15:32,180 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:15:32,180 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:15:32 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:16:01,550 - tools.report.log_tool - INFO - ----请求用时: 149.619 秒数
+2020-09-12 02:16:01,550 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 43
+
+b'{"pwd": "Aa123456", "userName": "wuling12"}'
+2020-09-12 02:16:01,550 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:16:01 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:21:31,353 - tools.report.log_tool - INFO - ----请求用时: 133.077 秒数
+2020-09-12 02:21:31,354 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-12 02:21:31,354 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:21:31 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:21:32,479 - tools.report.log_tool - INFO - ----请求用时: 38.734 秒数
+2020-09-12 02:21:32,479 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-12 02:21:32,479 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:21:32 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:21:33,576 - tools.report.log_tool - INFO - ----请求用时: 42.475 秒数
+2020-09-12 02:21:33,576 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-12 02:21:33,576 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:21:33 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:24:01,161 - tools.report.log_tool - INFO - ----请求用时: 348.582 秒数
+2020-09-12 02:24:01,161 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-12 02:24:01,161 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:24:01 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:24:01,316 - tools.report.log_tool - INFO - ----请求用时: 114.684 秒数
+2020-09-12 02:24:01,317 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-12 02:24:01,317 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:24:01 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:24:01,506 - tools.report.log_tool - INFO - ----请求用时: 147.342 秒数
+2020-09-12 02:24:01,506 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-12 02:24:01,507 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:24:01 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:27:55,739 - tools.report.log_tool - INFO - ----请求用时: 171.139 秒数
+2020-09-12 02:27:55,740 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 41
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl47"}'
+2020-09-12 02:27:55,740 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:27:55 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:27:56,832 - tools.report.log_tool - INFO - ----请求用时: 39.282 秒数
+2020-09-12 02:27:56,832 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-12 02:27:56,832 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:27:56 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 02:27:57,918 - tools.report.log_tool - INFO - ----请求用时: 44.065 秒数
+2020-09-12 02:27:57,919 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-12 02:27:57,919 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Fri, 11 Sep 2020 18:27:57 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 21:25:54,661 - tools.report.log_tool - INFO - ----请求用时: 140.474 秒数
+2020-09-12 21:25:54,662 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 21:25:54,662 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:25:56 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTE4OTU2MjcwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 21:25:55,744 - tools.report.log_tool - INFO - ----请求用时: 38.649 秒数
+2020-09-12 21:25:55,745 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-12 21:25:55,745 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:25:57 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 21:25:56,834 - tools.report.log_tool - INFO - ----请求用时: 34.531 秒数
+2020-09-12 21:25:56,834 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-12 21:25:56,834 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:25:58 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 21:28:45,040 - tools.report.log_tool - INFO - ----请求用时: 129.016 秒数
+2020-09-12 21:28:45,041 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 21:28:45,041 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:28:46 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTE5MTI2NjUwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 21:28:46,152 - tools.report.log_tool - INFO - ----请求用时: 36.078 秒数
+2020-09-12 21:28:46,153 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-12 21:28:46,153 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:28:47 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 21:28:47,253 - tools.report.log_tool - INFO - ----请求用时: 46.645 秒数
+2020-09-12 21:28:47,254 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-12 21:28:47,254 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:28:48 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-12 21:41:39,449 - tools.report.log_tool - INFO - ----请求用时: 219.086 秒数
+2020-09-12 21:41:39,449 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 21:41:39,449 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:41:41 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTE5OTAxMDU2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 21:42:14,725 - tools.report.log_tool - INFO - ----请求用时: 120.993 秒数
+2020-09-12 21:42:14,725 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 21:42:14,725 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 13:42:16 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTE5OTM2MzI5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:08:35,172 - tools.report.log_tool - INFO - ----请求用时: 232.546 秒数
+2020-09-12 22:08:35,173 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:08:35,173 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:08:36 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIxNTE2NzY2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:23:43,302 - tools.report.log_tool - INFO - ----请求用时: 187.707 秒数
+2020-09-12 22:23:43,302 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:23:43,302 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:23:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIyNDI0ODkxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:24:32,850 - tools.report.log_tool - INFO - ----请求用时: 121.316 秒数
+2020-09-12 22:24:32,851 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:24:32,851 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:24:34 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIyNDc0NDQwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:26:54,414 - tools.report.log_tool - INFO - ----请求用时: 120.925 秒数
+2020-09-12 22:26:54,415 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:26:54,415 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:26:56 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIyNjE2MDA3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:30:12,486 - tools.report.log_tool - INFO - ----请求用时: 118.391 秒数
+2020-09-12 22:30:12,486 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:30:12,486 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:30:14 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIyODE0MDc3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:34:43,610 - tools.report.log_tool - INFO - ----请求用时: 162.746 秒数
+2020-09-12 22:34:43,610 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:34:43,611 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:34:45 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIzMDg1MjAwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:43:33,000 - tools.report.log_tool - INFO - ----请求用时: 820.799 秒数
+2020-09-12 22:43:33,000 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:43:33,000 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:43:33 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIzNjEzOTM5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:45:58,882 - tools.report.log_tool - INFO - ----请求用时: 171.947 秒数
+2020-09-12 22:45:58,882 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:45:58,882 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:46:00 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTIzNzYwNDY3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:53:55,917 - tools.report.log_tool - INFO - ----请求用时: 127.576 秒数
+2020-09-12 22:53:55,918 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:53:55,918 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:53:57 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0MjM3NDk5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:53:58,241 - tools.report.log_tool - ERROR - Exception url: http://www.guoyasoft.com:8084/cst/realname
+2020-09-12 22:53:58,242 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='127.0.0.1', port=7890): Max retries exceeded with url: http://www.guoyasoft.com:8084/cst/realname (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2020-09-12 22:56:06,227 - tools.report.log_tool - INFO - ----请求用时: 210.02 秒数
+2020-09-12 22:56:06,228 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 22:56:06,228 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:56:07 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0MzY3ODExLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 22:56:06,342 - tools.report.log_tool - INFO - ----请求用时: 61.252 秒数
+2020-09-12 22:56:06,342 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTI0MzY3ODExLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 204
+
+b'{"cstId": 7, "birthday": "19940912", "certno": "510303199409129755", "city": "\\u81ea\\u8d21\\u5e02", "cstName": "\\u5a04\\u5bb6\\u8a00", "email": "SDmzP7jN@msn.com", "province": "\\u56db\\u5ddd\\u7701", "sex": 0}'
+2020-09-12 22:56:06,342 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 14:56:07 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-12 23:01:59,386 - tools.report.log_tool - INFO - ----请求用时: 167.918 秒数
+2020-09-12 23:01:59,386 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:01:59,386 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:02:00 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0NzIwOTY1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:03:00,701 - tools.report.log_tool - INFO - ----请求用时: 130.143 秒数
+2020-09-12 23:03:00,701 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:03:00,701 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:03:02 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0NzgyMjgxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:03:58,287 - tools.report.log_tool - INFO - ----请求用时: 137.273 秒数
+2020-09-12 23:03:58,288 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:03:58,288 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:03:59 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0ODM5ODY1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:03:59,374 - tools.report.log_tool - INFO - ----请求用时: 48.539 秒数
+2020-09-12 23:03:59,374 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTI0ODM5ODY1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 208
+
+b'{"cstId": 7, "birthday": "19940912", "certno": "500228199409127573", "city": "\\u91cd\\u5e86\\u5e02", "cstName": "\\u95e8\\u8d85", "email": "ygGz3LtAxs_9Em4hK@0355.net", "province": "\\u91cd\\u5e86\\u5e02", "sex": 0}'
+2020-09-12 23:03:59,374 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:04:00 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-12 23:06:23,252 - tools.report.log_tool - INFO - ----请求用时: 178.424 秒数
+2020-09-12 23:06:23,252 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:06:23,252 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:06:24 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI0OTg0ODMyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:07:20,309 - tools.report.log_tool - INFO - ----请求用时: 173.957 秒数
+2020-09-12 23:07:20,310 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:07:20,310 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:07:21 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1MDQxODkwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:08:40,612 - tools.report.log_tool - INFO - ----请求用时: 312.502 秒数
+2020-09-12 23:08:40,612 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:08:40,612 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:08:42 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1MTIyMDk3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:08:40,704 - tools.report.log_tool - INFO - ----请求用时: 42.695 秒数
+2020-09-12 23:08:40,705 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTI1MTIyMDk3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 211
+
+b'{"cstId": 7, "birthday": "19920912", "certno": "410221199209124291", "city": "\\u5f00\\u5c01\\u5e02", "cstName": "\\u865e\\u660e\\u5f6c", "email": "nhOAFfTNS5moq3@yeah.net", "province": "\\u6cb3\\u5357\\u7701", "sex": 0}'
+2020-09-12 23:08:40,705 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:08:42 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-12 23:09:53,913 - tools.report.log_tool - INFO - ----请求用时: 132.374 秒数
+2020-09-12 23:09:53,913 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:09:53,914 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:09:55 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1MTk1NDk0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:12:02,834 - tools.report.log_tool - INFO - ----请求用时: 191.677 秒数
+2020-09-12 23:12:02,835 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:12:02,835 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:12:04 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1MzI0NDExLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:12:02,902 - tools.report.log_tool - INFO - ----请求用时: 27.969 秒数
+2020-09-12 23:12:02,902 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTI1MzI0NDExLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 198
+
+b'{"cstId": 7, "birthday": "19930912", "certno": "510501199309123792", "city": "\\u6cf8\\u5dde\\u5e02", "cstName": "\\u53e4\\u677e", "email": "pYWlIo@yahoo.com", "province": "\\u56db\\u5ddd\\u7701", "sex": 0}'
+2020-09-12 23:12:02,902 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:12:04 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-12 23:13:11,284 - tools.report.log_tool - INFO - ----请求用时: 119.999 秒数
+2020-09-12 23:13:11,284 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:13:11,284 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:13:12 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1MzkyODY0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:18:19,053 - tools.report.log_tool - INFO - ----请求用时: 122.638 秒数
+2020-09-12 23:18:19,053 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:18:19,054 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:18:20 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI1NzAwNjM0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-12 23:34:17,716 - tools.report.log_tool - INFO - ----请求用时: 162.694 秒数
+2020-09-12 23:34:17,716 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-12 23:34:17,716 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 15:34:19 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI2NjU5MjkwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:03:13,952 - tools.report.log_tool - INFO - ----请求用时: 396.118 秒数
+2020-09-13 00:03:13,953 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:03:13,953 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:03:15 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI4Mzk1NTE2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:29:05,903 - tools.report.log_tool - INFO - ----请求用时: 268.173 秒数
+2020-09-13 00:29:05,903 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:29:05,903 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:29:07 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTI5OTQ3NDU1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:30:38,603 - tools.report.log_tool - INFO - ----请求用时: 204.698 秒数
+2020-09-13 00:30:38,604 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:30:38,604 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:30:40 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwMDQwMTYwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:32:59,908 - tools.report.log_tool - INFO - ----请求用时: 125.568 秒数
+2020-09-13 00:32:59,908 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:32:59,908 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:33:01 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwMTgxNDY2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:32:59,999 - tools.report.log_tool - INFO - ----请求用时: 29.618 秒数
+2020-09-13 00:32:59,999 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTMwMTgxNDY2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 207
+
+b'{"cstId": 7, "birthday": "19880913", "certno": "211101198809133923", "city": "\\u76d8\\u9526\\u5e02", "cstName": "\\u5f92\\u6708\\u96c1", "email": "DT4t63d0xXAP@qq.com", "province": "\\u8fbd\\u5b81\\u7701", "sex": 1}'
+2020-09-13 00:32:59,999 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:33:01 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 00:36:47,072 - tools.report.log_tool - INFO - ----请求用时: 230.017 秒数
+2020-09-13 00:36:47,072 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:36:47,073 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:36:48 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwNDA4NjI4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:39:50,667 - tools.report.log_tool - INFO - ----请求用时: 202.453 秒数
+2020-09-13 00:39:50,668 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:39:50,668 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:39:52 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwNTkyMjI0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:39:50,769 - tools.report.log_tool - INFO - ----请求用时: 40.191 秒数
+2020-09-13 00:39:50,769 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTMwNTkyMjI0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 211
+
+b'{"cstId": 7, "birthday": "19950913", "certno": "410423190809201092", "city": "\\u5e73\\u9876\\u5c71\\u5e02", "cstName": "\\u4fde\\u5065", "email": "gQbihUHzx41S7rq@163.com", "province": "\\u6cb3\\u5357\\u7701", "sex": 0}'
+2020-09-13 00:39:50,770 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:39:52 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 00:40:42,572 - tools.report.log_tool - INFO - ----请求用时: 128.59 秒数
+2020-09-13 00:40:42,572 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:40:42,572 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:40:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwNjQ0MTIzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:40:42,672 - tools.report.log_tool - INFO - ----请求用时: 46.086 秒数
+2020-09-13 00:40:42,672 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTMwNjQ0MTIzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 209
+
+b'{"cstId": 7, "birthday": "2019-01-31", "certno": "410423190809201092", "city": "\\u65e0\\u9521\\u5e02", "cstName": "\\u803f\\u8c26\\u98de", "email": "mGFbjHzSBMl6@qq.com", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}'
+2020-09-13 00:40:42,672 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:40:44 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 00:42:19,680 - tools.report.log_tool - INFO - ----请求用时: 316.304 秒数
+2020-09-13 00:42:19,681 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:42:19,681 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:42:21 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwNzQxMjA1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:45:19,454 - tools.report.log_tool - INFO - ----请求用时: 206.966 秒数
+2020-09-13 00:45:19,454 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:45:19,454 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:45:20 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMwOTIwOTk5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:46:46,414 - tools.report.log_tool - INFO - ----请求用时: 155.668 秒数
+2020-09-13 00:46:46,414 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:46:46,414 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:46:47 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxMDA3OTY2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:49:25,136 - tools.report.log_tool - INFO - ----请求用时: 133.492 秒数
+2020-09-13 00:49:25,137 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:49:25,137 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:49:26 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxMTY2Njg3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:50:12,974 - tools.report.log_tool - INFO - ----请求用时: 179.593 秒数
+2020-09-13 00:50:12,974 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:50:12,974 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:50:14 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxMjE0NTI4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:50:13,077 - tools.report.log_tool - INFO - ----请求用时: 54.212 秒数
+2020-09-13 00:50:13,078 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTMxMjE0NTI4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 218
+
+b'{"cstId": 7, "birthday": "19990913", "certno": "230202199909135618", "city": "\\u9f50\\u9f50\\u54c8\\u5c14\\u5e02", "cstName": "\\u4f2f\\u6668", "email": "KaxXijsoI_@aol.com", "province": "\\u9ed1\\u9f99\\u6c5f\\u7701", "sex": 0}'
+2020-09-13 00:50:13,078 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:50:14 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 00:52:49,514 - tools.report.log_tool - INFO - ----请求用时: 296.109 秒数
+2020-09-13 00:52:49,514 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:52:49,514 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:52:51 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxMzcxMDU1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:53:39,092 - tools.report.log_tool - INFO - ----请求用时: 142.475 秒数
+2020-09-13 00:53:39,092 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:53:39,092 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:53:40 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxNDIwNjQzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:55:50,043 - tools.report.log_tool - INFO - ----请求用时: 158.099 秒数
+2020-09-13 00:55:50,043 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:55:50,043 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:55:51 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxNTUxNTk3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:59:34,432 - tools.report.log_tool - INFO - ----请求用时: 124.342 秒数
+2020-09-13 00:59:34,432 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 00:59:34,433 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 16:59:35 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxNzc1OTg1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 00:59:34,439 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 00:59:34,439 - tools.report.log_tool - ERROR - Object of type function is not JSON serializable
+2020-09-13 01:01:32,261 - tools.report.log_tool - INFO - ----请求用时: 117.029 秒数
+2020-09-13 01:01:32,261 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:01:32,261 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:01:33 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMxODkzODEzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:03:39,151 - tools.report.log_tool - INFO - ----请求用时: 202.688 秒数
+2020-09-13 01:03:39,151 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:03:39,151 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:03:40 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyMDIwNzAwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:04:15,516 - tools.report.log_tool - INFO - ----请求用时: 118.949 秒数
+2020-09-13 01:04:15,516 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:04:15,516 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:04:17 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyMDU3MDY0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:04:38,873 - tools.report.log_tool - INFO - ----请求用时: 181.845 秒数
+2020-09-13 01:04:38,873 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:04:38,873 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:04:40 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyMDgwNDE4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:06:00,382 - tools.report.log_tool - INFO - ----请求用时: 168.572 秒数
+2020-09-13 01:06:00,383 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:06:00,383 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:06:01 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyMTYxOTMxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:07:50,846 - tools.report.log_tool - INFO - ----请求用时: 162.284 秒数
+2020-09-13 01:07:50,846 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:07:50,846 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:07:52 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyMjcyMzk1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:11:27,392 - tools.report.log_tool - INFO - ----请求用时: 178.959 秒数
+2020-09-13 01:11:27,393 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:11:27,393 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:11:28 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyNDg4OTI0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:13:06,811 - tools.report.log_tool - INFO - ----请求用时: 168.047 秒数
+2020-09-13 01:13:06,812 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:13:06,812 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:13:08 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyNTg4MzU5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:13:40,954 - tools.report.log_tool - INFO - ----请求用时: 172.541 秒数
+2020-09-13 01:13:40,954 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:13:40,954 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:13:42 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyNjIyNDk3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:15:35,656 - tools.report.log_tool - INFO - ----请求用时: 176.427 秒数
+2020-09-13 01:15:35,657 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:15:35,657 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:15:37 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyNzM3MTk4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:16:43,799 - tools.report.log_tool - INFO - ----请求用时: 178.073 秒数
+2020-09-13 01:16:43,799 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:16:43,799 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:16:45 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyODA1MzQ0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:17:46,436 - tools.report.log_tool - INFO - ----请求用时: 155.632 秒数
+2020-09-13 01:17:46,437 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:17:46,437 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:17:47 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMyODY3OTgyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:20:00,928 - tools.report.log_tool - INFO - ----请求用时: 130.018 秒数
+2020-09-13 01:20:00,928 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:20:00,928 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:20:02 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMzMDAyNDc1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:24:43,685 - tools.report.log_tool - INFO - ----请求用时: 155.78 秒数
+2020-09-13 01:24:43,686 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:24:43,686 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:24:45 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMzMjg1MjI4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:24:43,693 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 01:24:43,694 - tools.report.log_tool - ERROR - Object of type datetime is not JSON serializable
+2020-09-13 01:26:35,640 - tools.report.log_tool - INFO - ----请求用时: 121.05 秒数
+2020-09-13 01:26:35,640 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:26:35,640 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:26:37 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMzMzk3MTgyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:26:35,641 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 01:26:35,641 - tools.report.log_tool - ERROR - Object of type datetime is not JSON serializable
+2020-09-13 01:28:44,359 - tools.report.log_tool - INFO - ----请求用时: 119.006 秒数
+2020-09-13 01:28:44,359 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:28:44,359 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:28:45 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTMzNTI1OTAxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:28:44,429 - tools.report.log_tool - INFO - ----请求用时: 33.261 秒数
+2020-09-13 01:28:44,429 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTMzNTI1OTAxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 208
+
+b'{"cstId": 7, "birthday": "19900913", "certno": "230711199009131391", "city": "\\u4f0a\\u6625\\u5e02", "cstName": "\\u9102\\u4e16", "email": "Frf5GhyiCFen@163.net", "province": "\\u9ed1\\u9f99\\u6c5f\\u7701", "sex": 0}'
+2020-09-13 01:28:44,430 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:28:45 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 01:48:22,027 - tools.report.log_tool - INFO - ----请求用时: 213.804 秒数
+2020-09-13 01:48:22,027 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:48:22,028 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:48:23 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTM0NzAzNTU4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:48:22,162 - tools.report.log_tool - INFO - ----请求用时: 91.987 秒数
+2020-09-13 01:48:22,162 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTM0NzAzNTU4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 203
+
+b'{"cstId": 7, "birthday": "2020-10-21", "certno": "130638199209134280", "city": "\\u4fdd\\u5b9a\\u5e02", "cstName": "\\u9633\\u98d8", "email": "w8sLlzvamZ9@163.net", "province": "\\u6cb3\\u5317\\u7701", "sex": 1}'
+2020-09-13 01:48:22,163 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:48:23 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 01:49:00,772 - tools.report.log_tool - INFO - ----请求用时: 161.871 秒数
+2020-09-13 01:49:00,772 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:49:00,772 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:49:02 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTM0NzQyMzA4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:49:00,778 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 01:49:00,779 - tools.report.log_tool - ERROR - Object of type function is not JSON serializable
+2020-09-13 01:49:24,655 - tools.report.log_tool - INFO - ----请求用时: 167.198 秒数
+2020-09-13 01:49:24,656 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 01:49:24,656 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:49:26 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTM0NzY2MTkwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 01:49:24,780 - tools.report.log_tool - INFO - ----请求用时: 65.966 秒数
+2020-09-13 01:49:24,780 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTM0NzY2MTkwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 199
+
+b'{"cstId": 7, "birthday": "19960913", "certno": "321301199609139053", "city": "\\u5bbf\\u8fc1\\u5e02", "cstName": "\\u8bf8\\u4e16", "email": "i1WJTbMVi@ask.com", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}'
+2020-09-13 01:49:24,780 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 17:49:26 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 02:02:54,643 - tools.report.log_tool - INFO - ----请求用时: 170.799 秒数
+2020-09-13 02:02:54,643 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 02:02:54,644 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 18:02:56 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTM1NTc2MTcyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 02:02:54,804 - tools.report.log_tool - INFO - ----请求用时: 65.649 秒数
+2020-09-13 02:02:54,804 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTM1NTc2MTcyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 212
+
+b'{"cstId": 7, "birthday": "19860913", "certno": "33072119860913490X", "city": "\\u91d1\\u534e\\u5e02", "cstName": "\\u718a\\u8273\\u73b2", "email": "CRKqCu2dyakMjEG6@163.net", "province": "\\u6d59\\u6c5f\\u7701", "sex": 1}'
+2020-09-13 02:02:54,804 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 12 Sep 2020 18:02:56 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 08:49:12,672 - tools.report.log_tool - INFO - ----请求用时: 185.76 秒数
+2020-09-13 08:49:12,672 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 08:49:12,672 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 00:49:15 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTU5OTU1MDE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 08:49:12,872 - tools.report.log_tool - INFO - ----请求用时: 150.686 秒数
+2020-09-13 08:49:12,872 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTU5OTU1MDE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 207
+
+b'{"cstId": 7, "birthday": "19950913", "certno": "510422199509132104", "city": "\\u6500\\u679d\\u82b1\\u5e02", "cstName": "\\u65b9\\u7457", "email": "rIZQsWDVan@sohu.com", "province": "\\u56db\\u5ddd\\u7701", "sex": 1}'
+2020-09-13 08:49:12,872 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 00:49:15 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 09:08:48,673 - tools.report.log_tool - INFO - ----请求用时: 167.611 秒数
+2020-09-13 09:08:48,673 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 09:08:48,673 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 01:08:48 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTYxMTI4Njg2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 09:59:44,435 - tools.report.log_tool - INFO - ----请求用时: 502.366 秒数
+2020-09-13 09:59:44,435 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 09:59:44,436 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 01:59:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0MTg0MjAxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:00:21,468 - tools.report.log_tool - INFO - ----请求用时: 157.405 秒数
+2020-09-13 10:00:21,468 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 10:00:21,468 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:00:21 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0MjIxNDcyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:00:21,474 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 10:00:21,474 - tools.report.log_tool - ERROR - Object of type date is not JSON serializable
+2020-09-13 10:01:21,805 - tools.report.log_tool - INFO - ----请求用时: 122.169 秒数
+2020-09-13 10:01:21,805 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 10:01:21,805 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:01:21 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0MjgxODEwLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:01:21,811 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 10:01:21,811 - tools.report.log_tool - ERROR - Object of type date is not JSON serializable
+2020-09-13 10:02:55,306 - tools.report.log_tool - INFO - ----请求用时: 142.364 秒数
+2020-09-13 10:02:55,306 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 10:02:55,306 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:02:55 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0Mzc1MzA3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:02:56,394 - tools.report.log_tool - INFO - ----请求用时: 37.875 秒数
+2020-09-13 10:02:56,394 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTY0Mzc1MzA3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 213
+
+b'{"cstId": 7, "birthday": "19900913", "certno": "210124199009131848", "city": "\\u6c88\\u9633\\u5e02", "cstName": "\\u65f6\\u4e3d\\u8587", "email": "sNg1uZckbRnyLXOt@live.com", "province": "\\u8fbd\\u5b81\\u7701", "sex": 1}'
+2020-09-13 10:02:56,394 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:02:56 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 10:04:44,418 - tools.report.log_tool - INFO - ----请求用时: 167.243 秒数
+2020-09-13 10:04:44,419 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 10:04:44,419 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:04:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0NDg0NDE4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:04:44,427 - tools.report.log_tool - ERROR - Exception url: http://qa.yansl.com:8084/cst/realname2
+2020-09-13 10:04:44,428 - tools.report.log_tool - ERROR - Object of type date is not JSON serializable
+2020-09-13 10:06:37,473 - tools.report.log_tool - INFO - ----请求用时: 156.404 秒数
+2020-09-13 10:06:37,473 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 10:06:37,473 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:06:37 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTY0NTk3NDc1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 10:06:37,582 - tools.report.log_tool - INFO - ----请求用时: 55.078 秒数
+2020-09-13 10:06:37,583 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTY0NTk3NDc1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 196
+
+b'{"cstId": 7, "birthday": "19920913", "certno": "140105199209133170", "city": "\\u592a\\u539f\\u5e02", "cstName": "\\u6bb5\\u5b89", "email": "XlNA_5@163.com", "province": "\\u5c71\\u897f\\u7701", "sex": 0}'
+2020-09-13 10:06:37,583 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 02:06:37 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 12:59:25,245 - tools.report.log_tool - INFO - ----请求用时: 254.526 秒数
+2020-09-13 12:59:25,246 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 12:59:25,246 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 04:59:25 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTc0OTY1MTE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 12:59:25,443 - tools.report.log_tool - INFO - ----请求用时: 146.362 秒数
+2020-09-13 12:59:25,444 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTc0OTY1MTE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 234
+
+b'{"cstId": 7, "birthday": "19950913", "certno": "45060119950913214X", "city": "\\u9632\\u57ce\\u6e2f\\u5e02", "cstName": "\\u6e29\\u99a8\\u4e3d", "email": "eTznsBj@sohu.com", "province": "\\u5e7f\\u897f\\u58ee\\u65cf\\u81ea\\u6cbb\\u533a", "sex": 1}'
+2020-09-13 12:59:25,444 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 04:59:25 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 15:53:58,767 - tools.report.log_tool - INFO - ----请求用时: 153.109 秒数
+2020-09-13 15:53:58,768 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 15:53:58,768 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 07:53:59 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg1NDM5MTc1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 15:53:59,892 - tools.report.log_tool - INFO - ----请求用时: 46.582 秒数
+2020-09-13 15:53:59,892 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg1NDM5MTc1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 206
+
+b'{"cstId": 7, "birthday": "2020-10-10", "certno": "411528198909136397", "city": "\\u4fe1\\u9633\\u5e02", "cstName": "\\u90c1\\u5cf0", "email": "c08PgEF1fNMOb@sohu.com", "province": "\\u6cb3\\u5357\\u7701", "sex": 0}'
+2020-09-13 15:53:59,892 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 07:54:00 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 15:59:53,087 - tools.report.log_tool - INFO - ----请求用时: 178.255 秒数
+2020-09-13 15:59:53,087 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 15:59:53,087 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 07:59:53 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg1NzkzNTAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 15:59:53,207 - tools.report.log_tool - INFO - ----请求用时: 81.883 秒数
+2020-09-13 15:59:53,207 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg1NzkzNTAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 217
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "1993-10-01", "certno": "123456789012341666", "city": "\\u4e0a\\u6d77", "cstName": "\\u8d75\\u57f9\\u7eff", "email": "tespt264@qq.com", "province": "\\u6cb3\\u5357", "sex": "0"}}'
+2020-09-13 15:59:53,207 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 07:59:53 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-13 16:01:18,290 - tools.report.log_tool - INFO - ----请求用时: 167.373 秒数
+2020-09-13 16:01:18,291 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:01:18,291 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:01:18 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg1ODc4NzAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:01:18,418 - tools.report.log_tool - INFO - ----请求用时: 84.782 秒数
+2020-09-13 16:01:18,418 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg1ODc4NzAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 234
+
+b'{"cstId": 7, "birthday": "1993-10-01", "certno": "450323199209139894", "city": "\\u6842\\u6797\\u5e02", "cstName": "\\u798f\\u8c6a\\u798f", "email": "Pk7XAnExaYQ@0355.net", "province": "\\u5e7f\\u897f\\u58ee\\u65cf\\u81ea\\u6cbb\\u533a", "sex": 0}'
+2020-09-13 16:01:18,418 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:01:18 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 16:02:01,648 - tools.report.log_tool - INFO - ----请求用时: 188.19 秒数
+2020-09-13 16:02:01,649 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:02:01,649 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:02:02 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg1OTIyMDQ5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:02:01,804 - tools.report.log_tool - INFO - ----请求用时: 79.119 秒数
+2020-09-13 16:02:01,805 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg1OTIyMDQ5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 200
+
+b'{"cstId": 7, "birthday": "1993-10-01", "certno": "410622198609133465", "city": "\\u9e64\\u58c1\\u5e02", "cstName": "\\u60e0\\u67d4", "email": "rrDIKVG@sina.com", "province": "\\u6cb3\\u5357\\u7701", "sex": 1}'
+2020-09-13 16:02:01,805 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:02:02 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 16:03:58,818 - tools.report.log_tool - INFO - ----请求用时: 185.952 秒数
+2020-09-13 16:03:58,818 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:03:58,818 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:03:59 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2MDM5MjMxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:03:58,951 - tools.report.log_tool - INFO - ----请求用时: 93.803 秒数
+2020-09-13 16:03:58,951 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg2MDM5MjMxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 206
+
+b'{"cstId": 7, "birthday": "1993-10-01", "certno": "320601200009139472", "city": "\\u5357\\u901a\\u5e02", "cstName": "\\u51cc\\u6ce2", "email": "CCqSdk6HWRQpl4_@qq.com", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}'
+2020-09-13 16:03:58,951 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:03:59 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 16:06:53,473 - tools.report.log_tool - INFO - ----请求用时: 157.874 秒数
+2020-09-13 16:06:53,474 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:06:53,474 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:06:53 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2MjEzODg1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:06:53,593 - tools.report.log_tool - INFO - ----请求用时: 76.979 秒数
+2020-09-13 16:06:53,594 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg2MjEzODg1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 229
+
+b'{"cstId": 15799, "customerInfo": {"birthday": "1993-10-01", "certno": "210212199309137598", "city": "\\u5927\\u8fde\\u5e02", "cstName": "\\u7ec8\\u8fdb", "email": "sUiHQDnAf8Vj5G3O@qq.com", "province": "\\u8fbd\\u5b81\\u7701", "sex": 0}}'
+2020-09-13 16:06:53,594 - tools.report.log_tool - INFO - ---------------response----------------
+500
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:06:53 GMT
+
+{"timestamp":"2020-09-13T08:06:54.004+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/cst/realname2"}
+2020-09-13 16:08:44,475 - tools.report.log_tool - INFO - ----请求用时: 151.063 秒数
+2020-09-13 16:08:44,475 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:08:44,475 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:08:44 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2MzI0ODg3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:08:44,578 - tools.report.log_tool - INFO - ----请求用时: 65.885 秒数
+2020-09-13 16:08:44,579 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg2MzI0ODg3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 209
+
+b'{"cstId": 7, "birthday": "19870913", "certno": "310113198709133318", "city": "\\u4e0a\\u6d77\\u5e02", "cstName": "\\u878d\\u6811\\u8302", "email": "OdkVigYCLJIE@3721.net", "province": "\\u4e0a\\u6d77\\u5e02", "sex": 0}'
+2020-09-13 16:08:44,579 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:08:44 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 16:12:47,081 - tools.report.log_tool - INFO - ----请求用时: 171.195 秒数
+2020-09-13 16:12:47,081 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:12:47,081 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:12:47 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2NTY3NDg3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:12:47,238 - tools.report.log_tool - ERROR - Exception url: http:// http://qa.yansl.com:8084/cst/realname2
+2020-09-13 16:12:47,238 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='%20http', port=80): Max retries exceeded with url: //qa.yansl.com:8084/cst/realname2 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002365DA51C48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-09-13 16:14:28,854 - tools.report.log_tool - INFO - ----请求用时: 193.305 秒数
+2020-09-13 16:14:28,854 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:14:28,855 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:14:29 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2NjY5MjYzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:14:28,902 - tools.report.log_tool - ERROR - Exception url: http:// http://qa.yansl.com:8084/cst/realname2
+2020-09-13 16:14:28,902 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='%20http', port=80): Max retries exceeded with url: //qa.yansl.com:8084/cst/realname2 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B97AE319C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-09-13 16:16:22,401 - tools.report.log_tool - INFO - ----请求用时: 165.827 秒数
+2020-09-13 16:16:22,402 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:16:22,402 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:16:22 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2NzgyODEyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:16:22,448 - tools.report.log_tool - ERROR - Exception url: http:// http://qa.yansl.com:8084/cst/realname2
+2020-09-13 16:16:22,448 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='%20http', port=80): Max retries exceeded with url: //qa.yansl.com:8084/cst/realname2 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027315B7DE88>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-09-13 16:17:26,452 - tools.report.log_tool - INFO - ----请求用时: 191.665 秒数
+2020-09-13 16:17:26,452 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:17:26,452 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:17:26 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg2ODQ2ODYyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:17:26,558 - tools.report.log_tool - INFO - ----请求用时: 64.282 秒数
+2020-09-13 16:17:26,558 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg2ODQ2ODYyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 198
+
+b'{"cstId": 7, "birthday": "20020913", "certno": "431124200209133757", "city": "\\u6c38\\u5dde\\u5e02", "cstName": "\\u66b4\\u6cb3", "email": "wiTAE0Z@live.com", "province": "\\u6e56\\u5357\\u7701", "sex": 0}'
+2020-09-13 16:17:26,559 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:17:26 GMT
+
+{"code":9999,"message":"生日格式不正确","data":""}
+2020-09-13 16:22:28,612 - tools.report.log_tool - INFO - ----请求用时: 163.902 秒数
+2020-09-13 16:22:28,612 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:22:28,612 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:22:29 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3MTQ5MDIzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:22:28,723 - tools.report.log_tool - INFO - ----请求用时: 70.096 秒数
+2020-09-13 16:22:28,723 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg3MTQ5MDIzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 229
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "19930913", "certno": "510626199309132747", "city": "\\u5fb7\\u9633\\u5e02", "cstName": "\\u6fb9\\u5e0c", "email": "IIH8QDYgt9N4CcpV@sohu.com", "province": "\\u56db\\u5ddd\\u7701", "sex": 1}}'
+2020-09-13 16:22:28,723 - tools.report.log_tool - INFO - ---------------response----------------
+500
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:22:29 GMT
+
+{"timestamp":"2020-09-13T08:22:29.127+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/cst/realname2"}
+2020-09-13 16:23:19,465 - tools.report.log_tool - INFO - ----请求用时: 108.56 秒数
+2020-09-13 16:23:19,465 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:23:19,465 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:23:19 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3MTk5ODc4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:24:26,907 - tools.report.log_tool - INFO - ----请求用时: 192.664 秒数
+2020-09-13 16:24:26,907 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:24:26,907 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:24:27 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3MjY3MzE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:24:28,024 - tools.report.log_tool - INFO - ----请求用时: 79.47 秒数
+2020-09-13 16:24:28,024 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg3MjY3MzE1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 224
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "19940913", "certno": "330821199409136329", "city": "\\u8862\\u5dde\\u5e02", "cstName": "\\u53f2\\u598d", "email": "Y1KoyaniJHW@0355.net", "province": "\\u6d59\\u6c5f\\u7701", "sex": 1}}'
+2020-09-13 16:24:28,024 - tools.report.log_tool - INFO - ---------------response----------------
+500
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:24:28 GMT
+
+{"timestamp":"2020-09-13T08:24:28.426+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/cst/realname2"}
+2020-09-13 16:25:33,433 - tools.report.log_tool - INFO - ----请求用时: 193.923 秒数
+2020-09-13 16:25:33,433 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:25:33,433 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:25:33 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3MzMzODQzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:25:33,497 - tools.report.log_tool - ERROR - Exception url: http:// http://qa.yansl.com:8084/cst/realname2
+2020-09-13 16:25:33,497 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='%20http', port=80): Max retries exceeded with url: //qa.yansl.com:8084/cst/realname2 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E13B328B08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-09-13 16:26:48,571 - tools.report.log_tool - INFO - ----请求用时: 153.598 秒数
+2020-09-13 16:26:48,571 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:26:48,571 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:26:48 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3NDA4OTgzLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:26:48,618 - tools.report.log_tool - ERROR - Exception url: http:// http://qa.yansl.com:8084/cst/realname2
+2020-09-13 16:26:48,618 - tools.report.log_tool - ERROR - HTTPConnectionPool(host='%20http', port=80): Max retries exceeded with url: //qa.yansl.com:8084/cst/realname2 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017B6C030A08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-09-13 16:28:37,817 - tools.report.log_tool - INFO - ----请求用时: 162.48 秒数
+2020-09-13 16:28:37,817 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:28:37,818 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:28:38 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3NTE4MjI5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:29:14,776 - tools.report.log_tool - INFO - ----请求用时: 159.412 秒数
+2020-09-13 16:29:14,776 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:29:14,776 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:29:15 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3NTU1MTg3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:31:45,850 - tools.report.log_tool - INFO - ----请求用时: 187.41 秒数
+2020-09-13 16:31:45,850 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:31:45,850 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:31:46 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg3NzA2MjYyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:36:53,509 - tools.report.log_tool - INFO - ----请求用时: 270.05 秒数
+2020-09-13 16:36:53,509 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:36:53,510 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:36:53 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4MDEzOTE2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:37:34,882 - tools.report.log_tool - INFO - ----请求用时: 229.496 秒数
+2020-09-13 16:37:34,882 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:37:34,882 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:37:35 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4MDU1Mjk0LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:38:28,154 - tools.report.log_tool - INFO - ----请求用时: 152.17 秒数
+2020-09-13 16:38:28,154 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:38:28,154 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:38:28 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4MTA4NTY4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:38:28,297 - tools.report.log_tool - INFO - ----请求用时: 64.787 秒数
+2020-09-13 16:38:28,297 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4MTA4NTY4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 252
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "19860913", "certno": "450603198609136218", "city": "\\u9632\\u57ce\\u6e2f\\u5e02", "cstName": "\\u60e0\\u542f", "email": "BOAowEuJY9@163.com", "province": "\\u5e7f\\u897f\\u58ee\\u65cf\\u81ea\\u6cbb\\u533a", "sex": 0}}'
+2020-09-13 16:38:28,297 - tools.report.log_tool - INFO - ---------------response----------------
+500
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:38:28 GMT
+
+{"timestamp":"2020-09-13T08:38:28.706+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/cst/realname2"}
+2020-09-13 16:42:19,567 - tools.report.log_tool - INFO - ----请求用时: 207.855 秒数
+2020-09-13 16:42:19,569 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:42:19,569 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:42:19 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4MzM5OTc5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:42:19,676 - tools.report.log_tool - INFO - ----请求用时: 62.77 秒数
+2020-09-13 16:42:19,676 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4MzM5OTc5LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 236
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "19960913", "certno": "210213199609131194", "city": "\\u5927\\u8fde\\u5e02", "cstName": "\\u4f74\\u5e73\\u751f", "email": "nu8teqAi6NlWovsbC@sina.com", "province": "\\u8fbd\\u5b81\\u7701", "sex": 0}}'
+2020-09-13 16:42:19,678 - tools.report.log_tool - INFO - ---------------response----------------
+500
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:42:19 GMT
+
+{"timestamp":"2020-09-13T08:42:20.086+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/cst/realname2"}
+2020-09-13 16:46:30,268 - tools.report.log_tool - INFO - ----请求用时: 196.516 秒数
+2020-09-13 16:46:30,268 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:46:30,268 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:46:30 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4NTkwNjc2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:46:30,365 - tools.report.log_tool - INFO - ----请求用时: 58.525 秒数
+2020-09-13 16:46:30,365 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4NTkwNjc2LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 229
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "22060219970913862X", "city": "\\u767d\\u5c71\\u5e02", "cstName": "\\u614e\\u827a\\u4f73", "email": "psrAjRbw8@163.net", "province": "\\u5409\\u6797\\u7701", "sex": 1}}'
+2020-09-13 16:46:30,365 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:46:30 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-13 16:49:30,842 - tools.report.log_tool - INFO - ----请求用时: 186.416 秒数
+2020-09-13 16:49:30,843 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:49:30,843 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:49:31 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4NzcxMjU1LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:49:30,966 - tools.report.log_tool - INFO - ----请求用时: 84.888 秒数
+2020-09-13 16:49:30,966 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+2020-09-13 16:49:30,966 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:49:31 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-13 16:49:31,069 - tools.report.log_tool - INFO - ----请求用时: 64.768 秒数
+2020-09-13 16:49:31,069 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'
+2020-09-13 16:49:31,070 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:49:31 GMT
+
+{"code":9999,"message":"登录失败,用户名不存在","data":""}
+2020-09-13 16:50:53,577 - tools.report.log_tool - INFO - ----请求用时: 195.266 秒数
+2020-09-13 16:50:53,577 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:50:53,577 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:50:53 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4ODUzOTg4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:50:53,743 - tools.report.log_tool - INFO - ----请求用时: 120.886 秒数
+2020-09-13 16:50:53,743 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4ODUzOTg4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 228
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "210603199709135829", "city": "\\u4e39\\u4e1c\\u5e02", "cstName": "\\u4ec7\\u7fbd\\u6dd1", "email": "lpiMOoRs@163.net", "province": "\\u8fbd\\u5b81\\u7701", "sex": 1}}'
+2020-09-13 16:50:53,743 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:50:53 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-13 16:51:30,107 - tools.report.log_tool - INFO - ----请求用时: 165.558 秒数
+2020-09-13 16:51:30,108 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:51:30,108 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:51:30 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4ODkwNTE4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:51:30,335 - tools.report.log_tool - INFO - ----请求用时: 186.145 秒数
+2020-09-13 16:51:30,335 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4ODkwNTE4LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 235
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "350527198709133585", "city": "\\u6cc9\\u5dde\\u5e02", "cstName": "\\u8584\\u7ea2\\u541b", "email": "KtP2ALCuS5ywjkq@aol.com", "province": "\\u798f\\u5efa\\u7701", "sex": 1}}'
+2020-09-13 16:51:30,335 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:51:30 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-13 16:52:49,444 - tools.report.log_tool - INFO - ----请求用时: 202.062 秒数
+2020-09-13 16:52:49,445 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 16:52:49,445 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:52:49 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNTk5OTg4OTY5ODU3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 16:52:49,559 - tools.report.log_tool - INFO - ----请求用时: 69.273 秒数
+2020-09-13 16:52:49,559 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk5OTg4OTY5ODU3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 227
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "360105199609138959", "city": "\\u5357\\u660c\\u5e02", "cstName": "\\u9648\\u53d1\\u658c", "email": "JFI1gC@0355.net", "province": "\\u6c5f\\u897f\\u7701", "sex": 0}}'
+2020-09-13 16:52:49,559 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 08:52:49 GMT
+
+{"code":2000,"message":"认证成功","data":""}
+2020-09-13 20:37:11,109 - tools.report.log_tool - INFO - ----请求用时: 246.463 秒数
+2020-09-13 20:37:11,109 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "123456zjc", "userName": "123zjc"}'
+2020-09-13 20:37:11,109 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 12:37:11 GMT
+
+{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAwMDAyNDMxODYxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+2020-09-13 20:37:11,490 - tools.report.log_tool - INFO - ----请求用时: 304.106 秒数
+2020-09-13 20:37:11,490 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNjAwMDAyNDMxODYxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 263
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "450621199409133124", "city": "\\u9632\\u57ce\\u6e2f\\u5e02", "cstName": "\\u5510\\u6dd1", "email": "kgqNZWmVEaJnD9bz6@yahoo.com", "province": "\\u5e7f\\u897f\\u58ee\\u65cf\\u81ea\\u6cbb\\u533a", "sex": 1}}'
+2020-09-13 20:37:11,491 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 13 Sep 2020 12:37:11 GMT
+
+{"code":2000,"message":"认证成功","data":""}
