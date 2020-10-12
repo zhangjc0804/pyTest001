@@ -14,5 +14,6 @@ def test_changepwd(token):
 }
      resp = request_tool.post_json(url=url,headers=headers, json=req)
      resp_json = resp.json()
+     #提取响应内容进行断言；验证是否修改成功；
      message = resp_json['message']
      assert message == "修改成功1"
