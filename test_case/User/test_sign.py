@@ -22,4 +22,3 @@ def test_sign():
     resp_json = resp.json()
     code = resp_json['code']
     assert code ==2000
-    return  pwd,user_name + str(num)
