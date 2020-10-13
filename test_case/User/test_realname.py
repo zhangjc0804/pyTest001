@@ -1,6 +1,8 @@
 from tools.api import request_tool
 from tools.data import random_tool
 from tools.data import identity_tool
+import allure
+@allure.title("实名认证")
 def test_realname(token):
     headers = {
         'token': token,
