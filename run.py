@@ -13,7 +13,7 @@ if __name__ == '__main__':
      test_case5 = './test_case/User/test_changepwd.py'
 
      xml_report_path = './report/xml/'
-     html_report_path = './reports/html/'
+     html_report_path = './report/html/'
 
      pytest.main(['-s', '-q', '--alluredir',
 	      xml_report_path, test_case1, test_case2, test_case3, test_case4, test_case5])
