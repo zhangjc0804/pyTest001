@@ -17,3 +17,4 @@ def test_changepwd(token):
      #提取响应内容进行断言；验证是否修改成功；
      message = resp_json['message']
      assert message == "修改成功1"
+
