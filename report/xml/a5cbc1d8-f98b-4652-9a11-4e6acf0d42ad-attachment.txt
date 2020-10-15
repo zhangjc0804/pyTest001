@@ -1,0 +1,19 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 239.406 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/login
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 42
+                                              
+                                              b'{"pwd": "Jg82SqEi", "userName": "yujl471"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Thu, 15 Oct 2020 12:43:56 GMT
+                                              
+                                              {"code":9999,"message":"登录失败,用户名不存在","data":""}
