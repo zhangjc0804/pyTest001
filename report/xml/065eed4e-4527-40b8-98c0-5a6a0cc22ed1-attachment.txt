@@ -1,0 +1,19 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 289.08 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/signup
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 87
+                                              
+                                              b'{"phone": "18519622197", "pwd": "DoqK0I3r", "rePwd": "DoqK0I3r", "userName": "wenxf37"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Wed, 14 Oct 2020 14:07:27 GMT
+                                              
+                                              {"code":2000,"message":"注册成功；用户ID:18456","data":{"userName":"wenxf37","accoutId":18456,"cstId":18466,"userId":18456}}

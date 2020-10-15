@@ -1,0 +1,140 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case.User",
+    "children" : [ {
+      "name" : "test_sign",
+      "children" : [ {
+        "children" : [ {
+          "name" : "注册用户",
+          "uid" : "52dd142d1d945fd0",
+          "parentUid" : "9318cdbb452754b2ffcb24395c244c93",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764481709,
+            "stop" : 1602764483180,
+            "duration" : 1471
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9318cdbb452754b2ffcb24395c244c93"
+      } ],
+      "uid" : "d0853057cd479a4150ff69011fbcef38"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "children" : [ {
+          "name" : "批量登录用户",
+          "uid" : "73f0d188c3f5ecde",
+          "parentUid" : "b0e6d49db01ed3a32920720824963092",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764483180,
+            "stop" : 1602764485553,
+            "duration" : 2373
+          },
+          "flaky" : true,
+          "parameters" : [ "2000", "'123zjc'", "'123456zjc'" ]
+        }, {
+          "name" : "批量登录用户",
+          "uid" : "8a7ebb07e7602843",
+          "parentUid" : "b0e6d49db01ed3a32920720824963092",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764485560,
+            "stop" : 1602764488199,
+            "duration" : 2639
+          },
+          "flaky" : true,
+          "parameters" : [ "9999", "'yujl471'", "'Jg82SqEi'" ]
+        }, {
+          "name" : "批量登录用户",
+          "uid" : "767f977082b53a4",
+          "parentUid" : "b0e6d49db01ed3a32920720824963092",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764488199,
+            "stop" : 1602764495265,
+            "duration" : 7066
+          },
+          "flaky" : true,
+          "parameters" : [ "9999", "'yujl47'", "'Jg82SqEi1'" ]
+        } ],
+        "uid" : "b0e6d49db01ed3a32920720824963092"
+      } ],
+      "uid" : "c646a688b9a14c7e7a088589c298c302"
+    }, {
+      "name" : "test_realname",
+      "children" : [ {
+        "children" : [ {
+          "name" : "实名认证",
+          "uid" : "81a3c23a20524b4f",
+          "parentUid" : "a2ede3a043aa4c6e111fe8d9260d76b8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764498125,
+            "stop" : 1602764505891,
+            "duration" : 7766
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a2ede3a043aa4c6e111fe8d9260d76b8"
+      } ],
+      "uid" : "72f75f8be5e0a08692ef98fa30150c6e"
+    }, {
+      "name" : "test_oldpwd",
+      "children" : [ {
+        "children" : [ {
+          "name" : "旧密码登录失败",
+          "uid" : "33e5430737f197c3",
+          "parentUid" : "2118635f66a2521c4748b1de2e409a86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764505897,
+            "stop" : 1602764507219,
+            "duration" : 1322
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "新密码登录成功",
+          "uid" : "99d42a923e28abe8",
+          "parentUid" : "2118635f66a2521c4748b1de2e409a86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764507219,
+            "stop" : 1602764510579,
+            "duration" : 3360
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2118635f66a2521c4748b1de2e409a86"
+      } ],
+      "uid" : "799630ab3b06496580569b21c44f2b88"
+    }, {
+      "name" : "test_changepwd",
+      "children" : [ {
+        "children" : [ {
+          "name" : "修改密码成功",
+          "uid" : "efe56d8d1e9ad9ce",
+          "parentUid" : "2c4d4214a8865b8f988cf32797cfb137",
+          "status" : "passed",
+          "time" : {
+            "start" : 1602764510583,
+            "stop" : 1602764513379,
+            "duration" : 2796
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2c4d4214a8865b8f988cf32797cfb137"
+      } ],
+      "uid" : "e7e89335cd019b66284f36eb9bcdaf78"
+    } ],
+    "uid" : "c510645ca45b5592ddc4b2d003196695"
+  } ]
+}

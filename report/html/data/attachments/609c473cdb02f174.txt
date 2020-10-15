@@ -1,0 +1,21 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 857.897 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/login
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 42
+                                              
+                                              b'{"pwd": "123456zjc", "userName": "123zjc"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Wed, 14 Oct 2020 14:12:32 GMT
+                                              
+                                              {"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAyNjg2NTUyMDkxLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+ERROR    tools.report.log_tool:log_tool.py:52 Exception url: http://qa.yansl.com:8084/cst/realname2
+ERROR    tools.report.log_tool:log_tool.py:52 HTTPConnectionPool(host='127.0.0.1', port=7890): Max retries exceeded with url: http://qa.yansl.com:8084/cst/realname2 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))

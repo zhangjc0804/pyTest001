@@ -1,0 +1,8 @@
+---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 14 Oct 2020 14:07:27 GMT
+
+{"code":2000,"message":"注册成功；用户ID:18456","data":{"userName":"wenxf37","accoutId":18456,"cstId":18466,"userId":18456}}

@@ -1,0 +1,18 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 52.451 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/login
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 42
+                                              
+                                              b'{"pwd": "123456zjc", "userName": "dru795"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Content-Type: application/json;charset=UTF-8
+                                              Transfer-Encoding: chunked
+                                              Date: Tue, 13 Oct 2020 13:44:46 GMT
+                                              
+                                              {"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAyNTk4NDg2Njc1LCJ1c2VySWQiOjE4NDIzLCJ1c2VyTmFtZSI6ImRydTc5NSJ9","userName":"dru795"}}

@@ -1,0 +1,12 @@
+-------------------request-------------
+http://qa.yansl.com:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNjAyNzY2Mjk2MjAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+charset: UTF-8
+content-type: application/json;;charset=UTF-8
+Content-Length: 224
+
+b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "320112199510159916", "city": "\\u5357\\u4eac\\u5e02", "cstName": "\\u67f4\\u9e23", "email": "Zqjf3ZBO@gmail.com", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}}'

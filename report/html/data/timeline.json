@@ -1,0 +1,109 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-679Q8H2",
+    "children" : [ {
+      "name" : "21888-MainThread",
+      "children" : [ {
+        "name" : "修改密码成功",
+        "uid" : "efe56d8d1e9ad9ce",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764510583,
+          "stop" : 1602764513379,
+          "duration" : 2796
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "旧密码登录失败",
+        "uid" : "33e5430737f197c3",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764505897,
+          "stop" : 1602764507219,
+          "duration" : 1322
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "批量登录用户",
+        "uid" : "73f0d188c3f5ecde",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764483180,
+          "stop" : 1602764485553,
+          "duration" : 2373
+        },
+        "flaky" : true,
+        "parameters" : [ "2000", "'123zjc'", "'123456zjc'" ]
+      }, {
+        "name" : "批量登录用户",
+        "uid" : "8a7ebb07e7602843",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764485560,
+          "stop" : 1602764488199,
+          "duration" : 2639
+        },
+        "flaky" : true,
+        "parameters" : [ "9999", "'yujl471'", "'Jg82SqEi'" ]
+      }, {
+        "name" : "注册用户",
+        "uid" : "52dd142d1d945fd0",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764481709,
+          "stop" : 1602764483180,
+          "duration" : 1471
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "批量登录用户",
+        "uid" : "767f977082b53a4",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764488199,
+          "stop" : 1602764495265,
+          "duration" : 7066
+        },
+        "flaky" : true,
+        "parameters" : [ "9999", "'yujl47'", "'Jg82SqEi1'" ]
+      }, {
+        "name" : "新密码登录成功",
+        "uid" : "99d42a923e28abe8",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764507219,
+          "stop" : 1602764510579,
+          "duration" : 3360
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "实名认证",
+        "uid" : "81a3c23a20524b4f",
+        "parentUid" : "4b9cc16bb420ebd244e74537722a13b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602764498125,
+          "stop" : 1602764505891,
+          "duration" : 7766
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4b9cc16bb420ebd244e74537722a13b0"
+    } ],
+    "uid" : "b579bf9e4519f4739e142c41de9e4bcf"
+  } ]
+}

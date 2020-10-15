@@ -1,0 +1,2 @@
+ERROR    tools.report.log_tool:log_tool.py:52 Exception url: http://qa.yansl.com:8084/user/changepwd
+ERROR    tools.report.log_tool:log_tool.py:52 HTTPConnectionPool(host='127.0.0.1', port=7890): Max retries exceeded with url: http://qa.yansl.com:8084/user/changepwd (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))

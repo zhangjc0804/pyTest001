@@ -1,0 +1,147 @@
+{
+  "uid" : "73f0d188c3f5ecde",
+  "name" : "批量登录用户",
+  "fullName" : "test_case.User.test_login#test_login[正确数据]",
+  "historyId" : "d41b90ce8422808a1f1148a485dda34b",
+  "time" : {
+    "start" : 1602764483180,
+    "stop" : 1602764485553,
+    "duration" : 2373
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50c6eb39005de993",
+      "name" : "request",
+      "source" : "50c6eb39005de993.txt",
+      "type" : "text/plain",
+      "size" : 283
+    }, {
+      "uid" : "4ec00d6cd0f6ada9",
+      "name" : "response",
+      "source" : "4ec00d6cd0f6ada9.txt",
+      "type" : "text/plain",
+      "size" : 329
+    }, {
+      "uid" : "3101294710c1dd5c",
+      "name" : "log",
+      "source" : "3101294710c1dd5c.txt",
+      "type" : "text/plain",
+      "size" : 1520
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "21888-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "assertion",
+    "value" : "2000"
+  }, {
+    "name" : "name",
+    "value" : "'123zjc'"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456zjc'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad37ccc554a185f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602685035579,
+        "stop" : 1602685038079,
+        "duration" : 2500
+      }
+    }, {
+      "uid" : "a47735e91344f0f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684697099,
+        "stop" : 1602684701721,
+        "duration" : 4622
+      }
+    }, {
+      "uid" : "9141237206f92fc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684553513,
+        "stop" : 1602684557554,
+        "duration" : 4041
+      }
+    }, {
+      "uid" : "2b1333a7dab55eb2",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'tuple' object has no attribute 'url'",
+      "time" : {
+        "start" : 1602684447410,
+        "stop" : 1602684452579,
+        "duration" : 5169
+      }
+    }, {
+      "uid" : "562174ea1b7a765d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684317393,
+        "stop" : 1602684324941,
+        "duration" : 7548
+      }
+    }, {
+      "uid" : "e56a88b8d5278641",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602596685713,
+        "stop" : 1602596685800,
+        "duration" : 87
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73f0d188c3f5ecde.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "2000", "'123zjc'", "'123456zjc'" ]
+}

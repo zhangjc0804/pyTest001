@@ -1,0 +1,92 @@
+{
+  "uid" : "a2caa8b6446b1b53",
+  "name" : "注册用户",
+  "fullName" : "test_case.User.test_sign#test_sign",
+  "historyId" : "81b02e86fa0b3098a8c2946b75984036",
+  "time" : {
+    "start" : 1602684691898,
+    "stop" : 1602684697065,
+    "duration" : 5167
+  },
+  "status" : "broken",
+  "statusDetails" : {
+    "message" : "AttributeError: 'tuple' object has no attribute 'url'",
+    "trace" : "@allure.epic('一级归类')\n    @allure.feature('二级归类')\n    @allure.story('三级归类')\n    @allure.title(\"注册用户\")\n    def test_sign():\n        url = 'http://qa.yansl.com:8084/signup'\n        phone = random_tool.random_tell()\n        pwd = random_tool.random_pwd()\n        re_pwd = pwd\n        user_name = random_tool.random_name_pinyin()\n        num = random_tool.random_number(10, 99)\n        req = {\n            \"phone\": phone,\n            \"pwd\": pwd,\n            \"rePwd\": re_pwd,\n            \"userName\": user_name + str(num)\n        }\n>       resp = request_tool.post_json(url, json=req)\n\ntest_case\\User\\test_sign.py:21: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nargs = ('http://qa.yansl.com:8084/signup',)\nkwargs = {'json': {'phone': '13082916359', 'pwd': 'Pq8kYh4r', 'rePwd': 'Pq8kYh4r', 'userName': 'jiesx13'}}\nr = ()\n\n    def _func(*args, **kwargs):\n        r= func(*args, **kwargs)\n        request = \"-------------------request-------------\" \\\n>                 \"\\n{0}\\n{1}\\n{2}\".format(r.url, string_tool.dic_to_str(r.request.headers), r.request.body)\nE       AttributeError: 'tuple' object has no attribute 'url'\n\ntools\\report\\decorators_tool.py:11: AttributeError",
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusDetails" : {
+      "message" : "AttributeError: 'tuple' object has no attribute 'url'",
+      "trace" : "@allure.epic('一级归类')\n    @allure.feature('二级归类')\n    @allure.story('三级归类')\n    @allure.title(\"注册用户\")\n    def test_sign():\n        url = 'http://qa.yansl.com:8084/signup'\n        phone = random_tool.random_tell()\n        pwd = random_tool.random_pwd()\n        re_pwd = pwd\n        user_name = random_tool.random_name_pinyin()\n        num = random_tool.random_number(10, 99)\n        req = {\n            \"phone\": phone,\n            \"pwd\": pwd,\n            \"rePwd\": re_pwd,\n            \"userName\": user_name + str(num)\n        }\n>       resp = request_tool.post_json(url, json=req)\n\ntest_case\\User\\test_sign.py:21: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nargs = ('http://qa.yansl.com:8084/signup',)\nkwargs = {'json': {'phone': '13082916359', 'pwd': 'Pq8kYh4r', 'rePwd': 'Pq8kYh4r', 'userName': 'jiesx13'}}\nr = ()\n\n    def _func(*args, **kwargs):\n        r= func(*args, **kwargs)\n        request = \"-------------------request-------------\" \\\n>                 \"\\n{0}\\n{1}\\n{2}\".format(r.url, string_tool.dic_to_str(r.request.headers), r.request.body)\nE       AttributeError: 'tuple' object has no attribute 'url'\n\ntools\\report\\decorators_tool.py:11: AttributeError",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b8f944b5a910991",
+      "name" : "log",
+      "source" : "2b8f944b5a910991.txt",
+      "type" : "text/plain",
+      "size" : 404
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "二级归类"
+  }, {
+    "name" : "story",
+    "value" : "三级归类"
+  }, {
+    "name" : "epic",
+    "value" : "一级归类"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_sign"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "17252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_sign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "a2caa8b6446b1b53.json",
+  "statusDetailsSafe" : {
+    "message" : "AttributeError: 'tuple' object has no attribute 'url'",
+    "trace" : "@allure.epic('一级归类')\n    @allure.feature('二级归类')\n    @allure.story('三级归类')\n    @allure.title(\"注册用户\")\n    def test_sign():\n        url = 'http://qa.yansl.com:8084/signup'\n        phone = random_tool.random_tell()\n        pwd = random_tool.random_pwd()\n        re_pwd = pwd\n        user_name = random_tool.random_name_pinyin()\n        num = random_tool.random_number(10, 99)\n        req = {\n            \"phone\": phone,\n            \"pwd\": pwd,\n            \"rePwd\": re_pwd,\n            \"userName\": user_name + str(num)\n        }\n>       resp = request_tool.post_json(url, json=req)\n\ntest_case\\User\\test_sign.py:21: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nargs = ('http://qa.yansl.com:8084/signup',)\nkwargs = {'json': {'phone': '13082916359', 'pwd': 'Pq8kYh4r', 'rePwd': 'Pq8kYh4r', 'userName': 'jiesx13'}}\nr = ()\n\n    def _func(*args, **kwargs):\n        r= func(*args, **kwargs)\n        request = \"-------------------request-------------\" \\\n>                 \"\\n{0}\\n{1}\\n{2}\".format(r.url, string_tool.dic_to_str(r.request.headers), r.request.body)\nE       AttributeError: 'tuple' object has no attribute 'url'\n\ntools\\report\\decorators_tool.py:11: AttributeError",
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : true
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,8 @@
+---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 14 Oct 2020 14:09:09 GMT
+
+{"code":2000,"message":"注册成功；用户ID:18457","data":{"userName":"miax53","accoutId":18457,"cstId":18467,"userId":18457}}
