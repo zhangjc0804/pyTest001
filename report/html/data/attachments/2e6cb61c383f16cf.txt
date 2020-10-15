@@ -1,0 +1,20 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 57.17 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/user/changepwd
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              token: eyJ0aW1lT3V0IjoxNjAyNzc1NzM3MzM3LCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+                                              charset: UTF-8
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 94
+                                              
+                                              b'{"newPwd": "123456zjc", "oldPwd": "123456zjcq", "reNewPwd": "123456zjc", "userName": "dru795"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Content-Type: application/json;charset=UTF-8
+                                              Transfer-Encoding: chunked
+                                              Date: Thu, 15 Oct 2020 14:58:57 GMT
+                                              
+                                              {"code":2000,"message":"修改成功1","data":""}

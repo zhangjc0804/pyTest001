@@ -1,0 +1,113 @@
+{
+  "uid" : "d9638594c7fec84",
+  "name" : "修改密码成功",
+  "fullName" : "test_case.User.test_changepwd#test_changepwd",
+  "historyId" : "36fee43a9f2b3f263132e9d44d7dc434",
+  "time" : {
+    "start" : 1602684612077,
+    "stop" : 1602684616297,
+    "duration" : 4220
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1602684579915,
+      "stop" : 1602684596705,
+      "duration" : 16790
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f28c508bb6245520",
+      "name" : "request",
+      "source" : "f28c508bb6245520.txt",
+      "type" : "text/plain",
+      "size" : 283
+    }, {
+      "uid" : "84481a4d5d5bd425",
+      "name" : "response",
+      "source" : "84481a4d5d5bd425.txt",
+      "type" : "text/plain",
+      "size" : 329
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "db30842f293ad1db",
+      "name" : "request",
+      "source" : "db30842f293ad1db.txt",
+      "type" : "text/plain",
+      "size" : 447
+    }, {
+      "uid" : "a3d0bce37a38ecbf",
+      "name" : "response",
+      "source" : "a3d0bce37a38ecbf.txt",
+      "type" : "text/plain",
+      "size" : 220
+    }, {
+      "uid" : "efba292b93e3c898",
+      "name" : "log",
+      "source" : "efba292b93e3c898.txt",
+      "type" : "text/plain",
+      "size" : 1666
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_changepwd"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "15032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_changepwd"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "d9638594c7fec84.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,172 @@
+{
+  "uid" : "23fd07e8e6566cb6",
+  "name" : "批量登录用户",
+  "fullName" : "test_case.User.test_login#test_login[密码错误]",
+  "historyId" : "3f7836a6e80601c7fe231bb15b499df4",
+  "time" : {
+    "start" : 1602773935215,
+    "stop" : 1602773935274,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f34268e2917e4f4b",
+      "name" : "request",
+      "source" : "f34268e2917e4f4b.txt",
+      "type" : "text/plain",
+      "size" : 283
+    }, {
+      "uid" : "824debbf56d8883f",
+      "name" : "response",
+      "source" : "824debbf56d8883f.txt",
+      "type" : "text/plain",
+      "size" : 220
+    }, {
+      "uid" : "b6bb34b50db6f6b3",
+      "name" : "log",
+      "source" : "b6bb34b50db6f6b3.txt",
+      "type" : "text/plain",
+      "size" : 1364
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "assertion",
+    "value" : "9999"
+  }, {
+    "name" : "name",
+    "value" : "'yujl47'"
+  }, {
+    "name" : "pwd",
+    "value" : "'Jg82SqEi1'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b3dcdfc8c1ba1fc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602767769436,
+        "stop" : 1602767770860,
+        "duration" : 1424
+      }
+    }, {
+      "uid" : "c719f2024ea0e9b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602765837285,
+        "stop" : 1602765841753,
+        "duration" : 4468
+      }
+    }, {
+      "uid" : "daea0f3f8d2225de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602764488199,
+        "stop" : 1602764495265,
+        "duration" : 7066
+      }
+    }, {
+      "uid" : "34163bce32ec2959",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'tuple' object has no attribute 'url'",
+      "time" : {
+        "start" : 1602685039947,
+        "stop" : 1602685046289,
+        "duration" : 6342
+      }
+    }, {
+      "uid" : "abd913d44d972b14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684742255,
+        "stop" : 1602684748129,
+        "duration" : 5874
+      }
+    }, {
+      "uid" : "915275fc5a514ab6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684567081,
+        "stop" : 1602684579902,
+        "duration" : 12821
+      }
+    }, {
+      "uid" : "f999c8dbf6292327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602684463480,
+        "stop" : 1602684480634,
+        "duration" : 17154
+      }
+    }, {
+      "uid" : "121fe51ebbf49fef",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'tuple' object has no attribute 'url'",
+      "time" : {
+        "start" : 1602684334471,
+        "stop" : 1602684345941,
+        "duration" : 11470
+      }
+    }, {
+      "uid" : "2e39253f9b1fb46c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602596685884,
+        "stop" : 1602596685943,
+        "duration" : 59
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23fd07e8e6566cb6.json",
+  "statusDetailsSafe" : {
+    "flaky" : true
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "9999", "'yujl47'", "'Jg82SqEi1'" ]
+}

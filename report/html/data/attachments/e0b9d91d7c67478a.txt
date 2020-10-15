@@ -1,0 +1,19 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 417.696 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/signup
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 88
+                                              
+                                              b'{"phone": "15827426872", "pwd": "OYTaJC76", "rePwd": "OYTaJC76", "userName": "hangyl63"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Thu, 15 Oct 2020 12:21:22 GMT
+                                              
+                                              {"code":2000,"message":"注册成功；用户ID:18501","data":{"userName":"hangyl63","accoutId":18501,"cstId":18511,"userId":18501}}

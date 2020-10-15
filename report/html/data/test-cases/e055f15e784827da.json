@@ -1,0 +1,86 @@
+{
+  "uid" : "e055f15e784827da",
+  "name" : "旧密码登录失败",
+  "fullName" : "test_case.User.test_oldpwd#test_oldlogin",
+  "historyId" : "f9c7a95be7caf8c1653a90d1e70c8bd0",
+  "time" : {
+    "start" : 1602684355504,
+    "stop" : 1602684363978,
+    "duration" : 8474
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "141d614f225e7a81",
+      "name" : "request",
+      "source" : "141d614f225e7a81.txt",
+      "type" : "text/plain",
+      "size" : 284
+    }, {
+      "uid" : "a105473c35d3684c",
+      "name" : "response",
+      "source" : "a105473c35d3684c.txt",
+      "type" : "text/plain",
+      "size" : 232
+    }, {
+      "uid" : "9e96e511cc822895",
+      "name" : "log",
+      "source" : "9e96e511cc822895.txt",
+      "type" : "text/plain",
+      "size" : 1424
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_oldpwd"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "9868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_oldpwd"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "e055f15e784827da.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

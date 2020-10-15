@@ -1,0 +1,40 @@
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 817.597 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/login
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 42
+                                              
+                                              b'{"pwd": "123456zjc", "userName": "123zjc"}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Thu, 15 Oct 2020 12:21:36 GMT
+                                              
+                                              {"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAyNzY2Mjk2MjAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
+INFO     tools.report.log_tool:log_tool.py:40 ----请求用时: 720.36 秒数
+INFO     tools.report.log_tool:log_tool.py:40 -------------------request-------------
+                                              http://qa.yansl.com:8084/cst/realname2
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              token: eyJ0aW1lT3V0IjoxNjAyNzY2Mjk2MjAyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=
+                                              charset: UTF-8
+                                              content-type: application/json;;charset=UTF-8
+                                              Content-Length: 224
+                                              
+                                              b'{"cstId": 15790, "customerInfo": {"birthday": "2020-10-31", "certno": "320112199510159916", "city": "\\u5357\\u4eac\\u5e02", "cstName": "\\u67f4\\u9e23", "email": "Zqjf3ZBO@gmail.com", "province": "\\u6c5f\\u82cf\\u7701", "sex": 0}}'
+INFO     tools.report.log_tool:log_tool.py:40 ---------------response----------------
+                                              200
+                                              Connection: close
+                                              Transfer-Encoding: chunked
+                                              Content-Type: application/json;charset=UTF-8
+                                              Date: Thu, 15 Oct 2020 12:21:41 GMT
+                                              
+                                              {"code":2000,"message":"认证成功","data":""}

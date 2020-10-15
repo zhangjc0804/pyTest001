@@ -1,0 +1,95 @@
+{
+  "uid" : "d1ad50c8cdc16f46",
+  "name" : "批量登录用户",
+  "fullName" : "test_case.User.test_login#test_login[正确数据]",
+  "historyId" : "d41b90ce8422808a1f1148a485dda34b",
+  "time" : {
+    "start" : 1602764483180,
+    "stop" : 1602764485553,
+    "duration" : 2373
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e076f9c36e75978",
+      "name" : "request",
+      "source" : "e076f9c36e75978.txt",
+      "type" : "text/plain",
+      "size" : 283
+    }, {
+      "uid" : "996f1ab07c6ecfa0",
+      "name" : "response",
+      "source" : "996f1ab07c6ecfa0.txt",
+      "type" : "text/plain",
+      "size" : 329
+    }, {
+      "uid" : "2b64c60e43219d0b",
+      "name" : "log",
+      "source" : "2b64c60e43219d0b.txt",
+      "type" : "text/plain",
+      "size" : 1520
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "21888-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "assertion",
+    "value" : "2000"
+  }, {
+    "name" : "name",
+    "value" : "'123zjc'"
+  }, {
+    "name" : "pwd",
+    "value" : "'123456zjc'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "d1ad50c8cdc16f46.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "2000", "'123zjc'", "'123456zjc'" ]
+}

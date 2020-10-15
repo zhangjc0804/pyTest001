@@ -1,0 +1,95 @@
+{
+  "uid" : "abd913d44d972b14",
+  "name" : "批量登录用户",
+  "fullName" : "test_case.User.test_login#test_login[密码错误]",
+  "historyId" : "3f7836a6e80601c7fe231bb15b499df4",
+  "time" : {
+    "start" : 1602684742255,
+    "stop" : 1602684748129,
+    "duration" : 5874
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1ec476818c15294f",
+      "name" : "request",
+      "source" : "1ec476818c15294f.txt",
+      "type" : "text/plain",
+      "size" : 283
+    }, {
+      "uid" : "c9ecc0fb5e854bd4",
+      "name" : "response",
+      "source" : "c9ecc0fb5e854bd4.txt",
+      "type" : "text/plain",
+      "size" : 238
+    }, {
+      "uid" : "8bbea1d87c397c9e",
+      "name" : "log",
+      "source" : "8bbea1d87c397c9e.txt",
+      "type" : "text/plain",
+      "size" : 1429
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "17252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "assertion",
+    "value" : "9999"
+  }, {
+    "name" : "name",
+    "value" : "'yujl47'"
+  }, {
+    "name" : "pwd",
+    "value" : "'Jg82SqEi1'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "abd913d44d972b14.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "9999", "'yujl47'", "'Jg82SqEi1'" ]
+}

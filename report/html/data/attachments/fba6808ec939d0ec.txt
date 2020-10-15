@@ -1,0 +1,8 @@
+---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Wed, 14 Oct 2020 14:05:15 GMT
+
+{"code":2000,"message":"注册成功；用户ID:18455","data":{"userName":"jiubiao96","accoutId":18455,"cstId":18465,"userId":18455}}

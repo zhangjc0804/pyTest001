@@ -1,0 +1,95 @@
+{
+  "uid" : "4ba99f6dd46da2b6",
+  "name" : "注册用户",
+  "fullName" : "test_case.User.test_sign#test_sign",
+  "historyId" : "81b02e86fa0b3098a8c2946b75984036",
+  "time" : {
+    "start" : 1602684304738,
+    "stop" : 1602684317386,
+    "duration" : 12648
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9a6cf5030c20f378",
+      "name" : "request",
+      "source" : "9a6cf5030c20f378.txt",
+      "type" : "text/plain",
+      "size" : 331
+    }, {
+      "uid" : "fba6808ec939d0ec",
+      "name" : "response",
+      "source" : "fba6808ec939d0ec.txt",
+      "type" : "text/plain",
+      "size" : 304
+    }, {
+      "uid" : "7aaee5d847739274",
+      "name" : "log",
+      "source" : "7aaee5d847739274.txt",
+      "type" : "text/plain",
+      "size" : 1543
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "三级归类"
+  }, {
+    "name" : "epic",
+    "value" : "一级归类"
+  }, {
+    "name" : "feature",
+    "value" : "二级归类"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.User"
+  }, {
+    "name" : "suite",
+    "value" : "test_sign"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-679Q8H2"
+  }, {
+    "name" : "thread",
+    "value" : "9868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.User.test_sign"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : {
+    "tags" : [ ]
+  },
+  "source" : "4ba99f6dd46da2b6.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ ]
+}

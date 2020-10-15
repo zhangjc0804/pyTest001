@@ -1,0 +1,10 @@
+-------------------request-------------
+http://qa.yansl.com:8084/login
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 42
+
+b'{"pwd": "Jg82SqEi1", "userName": "yujl47"}'

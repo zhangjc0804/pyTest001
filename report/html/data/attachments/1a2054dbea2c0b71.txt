@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 15 Oct 2020 14:58:54 GMT
+
+{"code":2000,"message":"注册成功；用户ID:18520","data":{"userName":"wangln77","accoutId":18520,"cstId":18530,"userId":18520}}
