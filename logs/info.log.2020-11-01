@@ -1,0 +1,209 @@
+2020-10-31 23:57:09,296 - tools.report.log_tool - INFO - ----请求用时: 254.456 秒数
+2020-10-31 23:57:09,297 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 86
+
+b'{"phone": "18505179703", "pwd": "3sevhu5F", "rePwd": "3sevhu5F", "userName": "yelb23"}'
+2020-10-31 23:57:09,297 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 15:57:10 GMT
+
+{"code":2000,"message":"注册成功；用户ID:100315","data":{"userName":"yelb23","accoutId":18838,"cstId":18848,"userId":100315}}
+2020-10-31 23:59:17,185 - tools.report.log_tool - INFO - ----请求用时: 129.396 秒数
+2020-10-31 23:59:17,185 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 85
+
+b'{"phone": "13591321779", "pwd": "7pWSG9t6", "rePwd": "qre_pwd", "userName": "lish45"}'
+2020-10-31 23:59:17,185 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 15:59:18 GMT
+
+{"code":9999,"message":"两次输入密码不一致","data":""}
+2020-11-01 00:03:28,686 - tools.report.log_tool - INFO - ----请求用时: 134.744 秒数
+2020-11-01 00:03:28,686 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 88
+
+b'{"phone": "15716167832", "pwd": "6uf3naLS", "rePwd": "qre_pwd", "userName": "loujing26"}'
+2020-11-01 00:03:28,688 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:03:30 GMT
+
+{"code":9999,"message":"两次输入密码不一致","data":""}
+2020-11-01 00:05:24,715 - tools.report.log_tool - INFO - ----请求用时: 164.7 秒数
+2020-11-01 00:05:24,715 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 89
+
+b'{"phone": "15331902075", "pwd": "YAp29e8k", "rePwd": "YAp29e8k", "userName": "shenglh31"}'
+2020-11-01 00:05:24,716 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:05:26 GMT
+
+{"code":2000,"message":"注册成功；用户ID:100316","data":{"userName":"shenglh31","accoutId":18839,"cstId":18849,"userId":100316}}
+2020-11-01 00:11:39,140 - tools.report.log_tool - INFO - ----请求用时: 212.103 秒数
+2020-11-01 00:11:39,140 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 87
+
+b'{"phone": "15133418791", "pwd": "tJqkic9H", "rePwd": "tJqkic9H", "userName": "maoyl37"}'
+2020-11-01 00:11:39,140 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:11:40 GMT
+
+{"code":2000,"message":"注册成功；用户ID:100317","data":{"userName":"maoyl37","accoutId":18840,"cstId":18850,"userId":100317}}
+2020-11-01 00:15:34,017 - tools.report.log_tool - INFO - ----请求用时: 142.207 秒数
+2020-11-01 00:15:34,017 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 84
+
+b'{"phone": "15881076610", "pwd": "3Bv5f2jm", "rePwd": "re_pwd", "userName": "jipw58"}'
+2020-11-01 00:15:34,017 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:15:35 GMT
+
+{"code":9999,"message":"两次输入密码不一致","data":""}
+2020-11-01 00:16:34,852 - tools.report.log_tool - INFO - ----请求用时: 126.224 秒数
+2020-11-01 00:16:34,852 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 86
+
+b'{"phone": "18962827977", "pwd": "JzCnVo99", "rePwd": "re_pwd", "userName": "shenyy53"}'
+2020-11-01 00:16:34,853 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:16:36 GMT
+
+{"code":9999,"message":"两次输入密码不一致","data":""}
+2020-11-01 00:21:41,527 - tools.report.log_tool - INFO - ----请求用时: 164.981 秒数
+2020-11-01 00:21:41,527 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 86
+
+b'{"phone": "15380626472", "pwd": "pwd", "rePwd": "cu9SJSHz", "userName": "chaijiang56"}'
+2020-11-01 00:21:41,528 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:21:43 GMT
+
+{"code":9999,"message":"用户名必须为3到10位的字母与数字组合,并且不能重复；密码必须为6到16位的字母与数字组合；","data":""}
+2020-11-01 00:23:16,559 - tools.report.log_tool - INFO - ----请求用时: 128.319 秒数
+2020-11-01 00:23:16,560 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 85
+
+b'{"phone": "13254696222", "pwd": "pwd", "rePwd": "r0eKaRET", "userName": "yangzhen83"}'
+2020-11-01 00:23:16,560 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:23:18 GMT
+
+{"code":9999,"message":"密码必须为6到16位的字母与数字组合；","data":""}
+2020-11-01 00:23:49,593 - tools.report.log_tool - INFO - ----请求用时: 209.886 秒数
+2020-11-01 00:23:49,593 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 83
+
+b'{"phone": "18351792030", "pwd": "pwd", "rePwd": "INgtTG77", "userName": "youdan79"}'
+2020-11-01 00:23:49,594 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:23:51 GMT
+
+{"code":9999,"message":"密码必须为6到16位的字母与数字组合；","data":""}
+2020-11-01 00:24:59,192 - tools.report.log_tool - INFO - ----请求用时: 238.759 秒数
+2020-11-01 00:24:59,192 - tools.report.log_tool - INFO - -------------------request-------------
+http://qa.yansl.com:8084/signup
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/json;;charset=UTF-8
+Content-Length: 88
+
+b'{"phone": "18910170878", "pwd": "kdXtobc0", "rePwd": "kdXtobc0", "userName": "hongyy62"}'
+2020-11-01 00:24:59,193 - tools.report.log_tool - INFO - ---------------response----------------
+200
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 31 Oct 2020 16:25:00 GMT
+
+{"code":2000,"message":"注册成功；用户ID:100318","data":{"userName":"hongyy62","accoutId":18841,"cstId":18851,"userId":100318}}
