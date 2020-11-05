@@ -14,10 +14,10 @@ def test_oldlogin():
     print(code)
     message = resp_json['message']
     assert   message =='登录失败,密码错误'
-
+#todo:修改密码登录成功
 @allure.title("新密码登录成功")
 def test_changedlogin():
-    url = 'http://qa.yansl.com:8084/login'
+    url = 'qa.yansl.com:8084/login'
     req = {
         "pwd": "123456zjc",
         "userName":"dru795"

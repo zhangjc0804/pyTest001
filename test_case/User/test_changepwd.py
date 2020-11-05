@@ -2,7 +2,7 @@ from tools.api import request_tool
 import allure
 @allure.title("修改密码成功")
 def test_changepwd(token):
-     url = 'http://qa.yansl.com:8084/user/changepwd'
+     url = 'qa.yansl.com:8084/user/changepwd'
      headers = {
           'token': token,
           'charset': 'UTF-8'

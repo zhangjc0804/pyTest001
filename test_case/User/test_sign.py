@@ -8,7 +8,7 @@ import allure
 @allure.story('三级归类')
 @allure.title("注册用户")
 def test_sign():
-    url = 'http://qa.yansl.com:8084/signup'
+    url = 'qa.yansl.com:8084/signup'
     phone = random_tool.random_tell()
     pwd = random_tool.random_pwd()
     re_pwd = pwd

@@ -11,7 +11,7 @@ cases = [('123zjc', '123456zjc', 2000),
 @pytest.mark.parametrize('name,pwd,assertion', cases, ids=ids)
 @allure.title("批量登录用户")
 def test_login(name, pwd, assertion):
-    url = 'http://qa.yansl.com:8084/login'
+    url = 'qa.yansl.com:8084/login'
     req = {
         "pwd": pwd,
         "userName": name

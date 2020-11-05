@@ -2,7 +2,7 @@ import pytest
 from tools.api import request_tool
 @pytest.fixture(scope='session')
 def token():
-    url='http://qa.yansl.com:8084/login'
+    url='qa.yansl.com:8084/login'
     req={
          "pwd": "123456zjc",
          "userName": "123zjc"

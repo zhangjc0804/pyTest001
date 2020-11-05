@@ -56,6 +56,20 @@ allure.api.addTranslation('de', {
     }
 });
 
+allure.api.addTranslation('nl', {
+    tab: {
+        behaviors: {
+            name: 'Functionaliteit'
+        }
+    },
+    widget: {
+        behaviors: {
+            name: 'Features en story’s',
+            showAll: 'Toon alle'
+        }
+    }
+});
+
 allure.api.addTranslation('he', {
     tab: {
         behaviors: {
@@ -70,6 +84,62 @@ allure.api.addTranslation('he', {
     }
 });
 
+allure.api.addTranslation('br', {
+    tab: {
+        behaviors: {
+            name: 'Comportamentos'
+        }
+    }, 
+    widget: {
+        behaviors: {
+            name: 'Funcionalidades por história', 
+            showAll: 'Mostrar tudo'
+        }
+    }
+});
+
+allure.api.addTranslation('ja', {
+    tab: {
+        behaviors: {
+            name: '振る舞い'
+        }
+    },
+    widget: {
+        behaviors: {
+            name: 'ストーリー別の機能',
+            showAll: '全て表示'
+        }
+    }
+});
+
+allure.api.addTranslation('es', {
+    tab: {
+        behaviors: {
+            name: 'Funcionalidades'
+        }
+    },
+    widget: {
+        behaviors: {
+            name: 'Funcionalidades por Historias de Usuario',
+            showAll: 'mostrar todo'
+        }
+    }
+});
+
+allure.api.addTranslation('kr', {
+    tab: {
+        behaviors: {
+            name: '동작'
+        }
+    },
+    widget: {
+        behaviors: {
+            name: '스토리별 기능',
+            showAll: '전체 보기'
+        }
+    }
+});
+
 allure.api.addTab('behaviors', {
     title: 'tab.behaviors.name', icon: 'fa fa-list',
     route: 'behaviors(/)(:testGroup)(/)(:testResult)(/)(:testResultTab)(/)',
@@ -80,7 +150,8 @@ allure.api.addTab('behaviors', {
             testResultTab: testResultTab,
             tabName: 'tab.behaviors.name',
             baseUrl: 'behaviors',
-            url: 'data/behaviors.json'
+            url: 'data/behaviors.json',
+            csvUrl: 'data/behaviors.csv'
         });
     })
 });

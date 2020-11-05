@@ -8,7 +8,7 @@ def test_realname(token):
         'token': token,
         'charset': 'UTF-8'
     }
-    url = 'http://qa.yansl.com:8084/cst/realname2'
+    url = 'qa.yansl.com:8084/cst/realname2'
     email = random_tool.random_email()
     sex = random_tool.random_sex()  # 随机生成男(1)或女(0)
     cst_name = random_tool.random_name(sex)

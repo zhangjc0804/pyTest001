@@ -32,10 +32,50 @@ allure.api.addTranslation('de', {
     }
 });
 
+allure.api.addTranslation('nl', {
+    tab: {
+        packages: {
+            name: 'Packages'
+        }
+    }
+});
+
 allure.api.addTranslation('he', {
     tab: {
         packages: {
             name: 'חבילות'
+        }
+    }
+});
+
+allure.api.addTranslation('br', {
+    tab: {
+        packages: {
+            name: 'Pacotes'
+        }
+    }
+});
+
+allure.api.addTranslation('ja', {
+    tab: {
+        packages: {
+            name: 'パッケージ'
+        }
+    }
+});
+
+allure.api.addTranslation('es', {
+    tab: {
+        packages: {
+            name: 'Paquetes'
+        }
+    }
+});
+
+allure.api.addTranslation('kr', {
+    tab: {
+        packages: {
+            name: '패키지'
         }
     }
 });
