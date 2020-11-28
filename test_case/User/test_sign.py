@@ -7,6 +7,7 @@ import allure
 @allure.feature('二级归类')
 @allure.story('三级归类')
 @allure.title("注册用户")
+#新增一条注释
 def test_sign():
     url = 'qa.yansl.com:8084/signup'
     phone = random_tool.random_tell()
