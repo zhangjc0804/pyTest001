@@ -3,11 +3,10 @@ from tools.data import random_tool
 from tools.report.log_fengzhuang import logger
 
 import allure
-@allure.epic('一级归类')
-@allure.feature('二级归类')
-@allure.story('三级归类')
-@allure.title("注册用户")
-#新增一条注释
+@allure.epic('guoyasoft.com')
+@allure.feature('用户模块')
+@allure.story('注册接口')
+@allure.title("注册用户")#
 def test_sign():
     url = 'qa.yansl.com:8084/signup'
     phone = random_tool.random_tell()

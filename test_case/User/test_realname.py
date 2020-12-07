@@ -2,6 +2,9 @@ from tools.api import request_tool
 from tools.data import random_tool
 from tools.data import identity_tool
 import allure
+@allure.epic('guoyasoft.com')
+@allure.feature('用户模块')
+@allure.story('实名认证接口')
 @allure.title("实名认证")
 def test_realname(token):
     headers = {

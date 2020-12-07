@@ -1,8 +1,0 @@
----------------response----------------
-200
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: application/json;charset=UTF-8
-Date: Thu, 15 Oct 2020 13:16:08 GMT
-
-{"code":9999,"message":"登录失败,用户名不存在","data":""}

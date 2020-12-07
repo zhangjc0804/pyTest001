@@ -8,6 +8,9 @@ ids = ['正确数据',
 cases = [('123zjc', '123456zjc', 2000),
          ('yujl471', 'Jg82SqEi', 9999),
          ('yujl47', 'Jg82SqEi1', 9999)]
+@allure.epic('guoyasoft.com')
+@allure.feature('用户模块')
+@allure.story('批量用户登录接口')
 @pytest.mark.parametrize('name,pwd,assertion', cases, ids=ids)
 @allure.title("批量登录用户")
 def test_login(name, pwd, assertion):

@@ -1,8 +1,0 @@
----------------response----------------
-200
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: application/json;charset=UTF-8
-Date: Wed, 14 Oct 2020 14:09:46 GMT
-
-{"code":2000,"message":"登录成功","data":{"token":"eyJ0aW1lT3V0IjoxNjAyNjg2Mzg2MTIyLCJ1c2VySWQiOjEzMDYsInVzZXJOYW1lIjoiMTIzempjIn0=","userName":"123zjc"}}
